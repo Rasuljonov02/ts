@@ -1,1 +1,1 @@
-import './projects/pay-me/typescript';
+import './main.css';
